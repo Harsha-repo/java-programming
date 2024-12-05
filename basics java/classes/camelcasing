@@ -1,0 +1,9 @@
+// so the naming conventions in java is called camel casing 
+/*
+ * class and interface : Calc or Human  - the first letter is capital
+ * for variables :  marks , name : all are small letters
+ * for methods   :  functions() , subjects()  : all are small if names are combination of words then
+ * myRollNumber or myRoomDoor  this camel naming is considered
+ * 
+ * for constructers  Human()  : with bracktes the class name 
+ */
